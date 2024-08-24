@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Vulnerable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\projects\\vulnerable\\reactapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\projects\\vulnerable\\reactapp1.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Vulnerable\\ReactApp1.Server\\Migrations\\20240824121001_db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReactApp1.Server\\Migrations\\20240824121001_db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\projects\\vulnerable\\reactapp1.server\\data\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\data\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\projects\\vulnerable\\reactapp1.server\\data\\filesinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\data\\filesinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\projects\\vulnerable\\reactapp1.server\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\projects\\vulnerable\\reactapp1.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\projects\\vulnerable\\reactapp1.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\projects\\vulnerable\\reactapp1.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\projects\\vulnerable\\reactapp1.client\\src\\components\\fileupload.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\components\\fileupload.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\projects\\vulnerable\\reactapp1.client\\src\\components\\filelist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\components\\filelist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\projects\\vulnerable\\reactapp1.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\projects\\vulnerable\\reactapp1.server\\reactapp1.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\reactapp1.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240824121001_db1.cs",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Migrations\\20240824121001_db1.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Migrations\\20240824121001_db1.cs",
+              "ToolTip": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Migrations\\20240824121001_db1.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Migrations\\20240824121001_db1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:10:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\reactapp1.client\\src\\Pages\\Login.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Pages\\Login.tsx",
+              "ToolTip": "C:\\Projects\\Vulnerable\\reactapp1.client\\src\\Pages\\Login.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Pages\\Login.tsx",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwDcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-24T12:00:29.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\reactapp1.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "reactapp1.client\\vite.config.ts",
+              "ToolTip": "C:\\Projects\\Vulnerable\\reactapp1.client\\vite.config.ts",
+              "RelativeToolTip": "reactapp1.client\\vite.config.ts",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-24T10:08:08.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileList.tsx",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\reactapp1.client\\src\\Components\\FileList.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Components\\FileList.tsx",
+              "ToolTip": "C:\\Projects\\Vulnerable\\reactapp1.client\\src\\Components\\FileList.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Components\\FileList.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T11:59:40.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Program.cs",
+              "ToolTip": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Program.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:56:04.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileUpload.tsx",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\reactapp1.client\\src\\Components\\FileUpload.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Components\\FileUpload.tsx",
+              "ToolTip": "C:\\Projects\\Vulnerable\\reactapp1.client\\src\\Components\\FileUpload.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Components\\FileUpload.tsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T11:50:04.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilesInfo.cs",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Data\\FilesInfo.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Data\\FilesInfo.cs",
+              "ToolTip": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Data\\FilesInfo.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Data\\FilesInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:45:49.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:28:33.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\reactapp1.client\\src\\Pages\\Register.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Pages\\Register.tsx",
+              "ToolTip": "C:\\Projects\\Vulnerable\\reactapp1.client\\src\\Pages\\Register.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Pages\\Register.tsx",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwDQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-24T12:01:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadedFile.cs",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Data\\UploadedFile.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Data\\UploadedFile.cs",
+              "ToolTip": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Data\\UploadedFile.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Data\\UploadedFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:36:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\Controllers\\FileController.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwD0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:26:44.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReactApp1.Server.http",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\ReactApp1.Server.http",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\ReactApp1.Server.http",
+              "ToolTip": "C:\\Projects\\Vulnerable\\ReactApp1.Server\\ReactApp1.Server.http",
+              "RelativeToolTip": "ReactApp1.Server\\ReactApp1.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-20T11:23:41.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.tsx",
+              "DocumentMoniker": "C:\\Projects\\Vulnerable\\reactapp1.client\\src\\Pages\\Home.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Pages\\Home.tsx",
+              "ToolTip": "C:\\Projects\\Vulnerable\\reactapp1.client\\src\\Pages\\Home.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Pages\\Home.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-20T11:12:34.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
