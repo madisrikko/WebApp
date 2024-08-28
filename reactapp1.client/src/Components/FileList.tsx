@@ -16,7 +16,7 @@ const FileList = () => {
     const fetchFiles = async () => {
         setLoading(true);
         try {
-            const response = await axios.get('https://localhost:7249/api/File', {
+            const response = await axios.get('http://localhost:8080/api/File', {
                 params: { search: currentSearchTerm },
                 withCredentials: true
             });
@@ -38,7 +38,7 @@ const FileList = () => {
 
     const handleDelete = async (id) => {
         try {
-            await axios.delete(`https://localhost:7249/api/File/${id}`, { withCredentials: true });
+            await axios.delete(`http://localhost:8080/api/File/${id}`, { withCredentials: true });
             setFiles(files.filter(file => file.id !== id));
         } catch (err) {
             setError('Failed to delete file');
@@ -136,7 +136,7 @@ const FileList = () => {
                                 <td>{file.uploadedAt}</td>
                                 <td>{file.fileSize}</td>
                                 <td>
-                                    <a href={`https://localhost:7249/api/File/download/${file.id}`} download>
+                                    <a href={`http://localhost:8080/api/File/download/${file.id}`} download>
                                         Download
                                     </a>
                                 </td>
