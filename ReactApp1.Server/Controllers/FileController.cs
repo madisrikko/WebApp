@@ -68,7 +68,7 @@ public class FileController : ControllerBase
     [HttpGet("download/{id}")]
     public async Task<IActionResult> DownloadFile(string id)
     {
-        var connectionString = "Server=(localdb)\\mssqllocaldb;Database=ReactApp22.Server;Trusted_Connection=True;MultipleActiveResultSets=true";
+        var connectionString = "Server=db;Database=mydatabase;User Id=sa;Password=Your_password123;TrustServerCertificate=True;";
 
         using (var connection = new SqlConnection(connectionString))
         {
