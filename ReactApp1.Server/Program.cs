@@ -18,7 +18,7 @@ namespace ReactApp1.Server
                 options.AddPolicy("AllowSpecificOrigin",
                     builder =>
                     {
-                        builder.WithOrigins("https://localhost:5173") // React app's URL
+                        builder.WithOrigins("http://localhost:3000") // React app's URL
                                .AllowAnyMethod()
                                .AllowAnyHeader()
                                .AllowCredentials();
