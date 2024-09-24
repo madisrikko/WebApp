@@ -1,6 +1,7 @@
 
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 using ReactApp1.Server.Data;
 using System.Security.Claims;
 
@@ -18,7 +19,7 @@ namespace ReactApp1.Server
                 options.AddPolicy("AllowSpecificOrigin",
                     builder =>
                     {
-                        builder.WithOrigins("http://localhost:3000") // React app's URL
+                        builder.WithOrigins("http://localhost:3000") // Impossible to misconfigure CORS in .NET
                                .AllowAnyMethod()
                                .AllowAnyHeader()
                                .AllowCredentials();
@@ -46,6 +47,19 @@ namespace ReactApp1.Server
                 var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
                 dbContext.Database.Migrate();
             }
+
+            var profilePicturesPath = Path.Combine(Directory.GetCurrentDirectory(), "ProfilePictures");
+            if (!Directory.Exists(profilePicturesPath))
+            {
+                Directory.CreateDirectory(profilePicturesPath);
+            }
+
+            app.UseStaticFiles();
+            app.UseStaticFiles(new StaticFileOptions
+            {
+                FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "ProfilePictures")),
+                RequestPath = "/ProfilePictures"
+            });
 
             app.UseCors("AllowSpecificOrigin");
 
